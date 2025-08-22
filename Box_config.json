@@ -1,0 +1,12 @@
+{
+  "boxAppSettings": {
+    "clientID": "92zd0y3u6bc1xxqji75qzsbdyz91kqku",
+    "clientSecret": "hlCo2WnmkW7bnf3lKa7ZSmrLTFCfgXjB",
+    "appAuth": {
+      "publicKeyID": "hsvukgy4",
+      "privateKey": "-----BEGIN ENCRYPTED PRIVATE KEY-----\nMIIFDjBABgkqhkiG9w0BBQ0wMzAbBgkqhkiG9w0BBQwwDgQIVbec/q9BQ5sCAggA\nMBQGCCqGSIb3DQMHBAht8EsErZurFgSCBMhcBd/XUrL49nT+MmMGcC/cl1/vaFhM\n9PH2gKbnVCOGIfL0uMCOq4FLIsQfcCQjXTCuHIX2uHxmDUhcn40FslRD4oEBV8s2\nsM1E243SCAGXkkVsooAWiHs2Y23hF8PoI9OQdY4IIXFIEG9W+x3qcW9HcNEnyc3O\nKXJBl77o6Cckq4HUiOwvX8dgMCcCvXOCOPLv7cdCBF2cYWlrSkKRcxvpnWaIyW+c\n90nnvV4Iux0sub0n6waZA7DItXS9Y6rAUAdpzMktaxvSPRP7of7vehG+kgutbR+B\njVojz9MFSYhGMHkivjui0R1Lh6X3ypS2SYqPEdKdiMAl7nB6tisO6PvKVjO3WgJ9\nhvSvK3YWJN9Ll7NRhF47iR+yCFaWUJh0qCzwBFVXH+ianaaTfoiirWmofEbnf9Wf\nlUh4wMAM83R/KaLz/RNn2tMZFxFl5tdvUJuc2kcMQyqOTk7IrWAf9J4XAAuzRguT\n5L+lfQzLNZGbcVrlqyZDzMr/tbcL2PX7hSuvIia/xT0UXEDECx9L1dr4Gv5iPti8\nOPUKsDe64sxTqC13v6QEEAv+XzWuNENSQ3acamJpU1tqNifq5+19sXutVqDQjjZ2\nlHqPdjDpsJM/4oi13wS97gTzOCWA//b0Ac6gNbyIcA9C1P6gD2AF7TRHKo8sxNgW\nEjD3X2PmeBgoxFY1tLs65KTpIbc6Y25QEHbwqKIF1XXhKA53Tcgl0XNKwuooumRa\n1Db9d6Hm9i4pnwq4/NRgHfJyRiE0Uue+Xkhga69AizE0C0DaajumlhXNlpBkbfHv\niPQMv2E7lnYDzoDDpelzru+GCfZywZR6PweFH+uxqC4EiaZRK6sp+jIedw+vFmva\nIkKqTjSEpMgzHJT2747h6bK/hODK1kXk9Xvv9ESi/GAV7cOLQoLET5CdZeCO5t4Y\nQWia6+FjLjaNdMrFlxI8/gkDUlfxkXJbAxtrX59HKKt8V238qME/s+N36HQmC6zp\nbdybrO0AhzndA8QSr8AFvdLy+4AjEDRlPv03bKVRSRjHLYb9Genj25KZEdz99y/y\naqpEDBCmFoyVOnejcxLmpypUYfaFNNosw2t9zRezIH9AqZeaW3otJoF7ojPxcQvy\nYHmZKjuz/flUtkRahQlNHJU3Q7ADPcjB50eT4ylq12A0Ilu1izwGpZQzAXmRLDIo\nXLFKz6kKzVy7cJTUujqqm+ZvNe7W4qVQ1nm+W0IwWXjbWqPcGuyNj0B5EVWAa+36\nLzm5i9ieuirVXhYuz0AwOI4lclbAejjRDSAGDLwCHOBIDhtag38b7ScYCz3DeUlp\nak5UfGPby43JRGe3aSEmixH5cE5elZKq5SxTSD0uO/ABWnPX0fzhdi/1nqKg8g6s\nEq4T9fwwS7Qm9tS6OousgUW7ARKXKzOVBi8YjUyf99lAYL5T5wrW1H3nUB8Kz386\nZcqmY6vzGJV7+Lj6ESc0yvtcpM/1poDQDRrUJKLCpWaAb5PzKj+egZtOl6tcKmyu\nCpMdv7JX3DUcqqMLG2w5xjWVuVRLnLoP4Wk8aR8zKPEqke0kIIoUKwnGoypDhaN1\ncvd2ld1BjosQZsq/rbreSBORG88WS7lEuIiCzgt6rNF3JehVQhmzdfSGa3elMO89\nIVM=\n-----END ENCRYPTED PRIVATE KEY-----\n",
+      "passphrase": "522ea7e7e0bb9188a161331068df1bd7"
+    }
+  },
+  "enterpriseID": "520533"
+}
