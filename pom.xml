@@ -265,7 +265,17 @@
 			<artifactId>commons-text</artifactId>
 			<version>1.10.0</version>
 		</dependency>
+		<!-- WebClient を使う場合に必要 -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-webflux</artifactId>
+		</dependency>
 
+		<!-- JSON処理用 (Jackson ObjectMapper) -->
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-databind</artifactId>
+		</dependency>
 
 	</dependencies>
 	<build>

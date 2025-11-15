@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu May 22 16:55:03 JST 2025
+#Tue Nov 04 13:08:22 JST 2025
+commons-beanutils-1.9.4-javadoc.jar>central=
+commons-beanutils-1.9.4-sources.jar>central=
 commons-beanutils-1.9.4.jar>central=
 commons-beanutils-1.9.4.pom>central=

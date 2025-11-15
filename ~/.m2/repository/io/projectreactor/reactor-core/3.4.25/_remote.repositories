@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 05 14:47:00 JST 2025
+reactor-core-3.4.25-javadoc.jar>central=
+reactor-core-3.4.25-sources.jar>central=
+reactor-core-3.4.25.jar>central=
+reactor-core-3.4.25.pom>central=

@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu May 22 16:55:03 JST 2025
+#Mon Nov 10 16:36:44 JST 2025
+postgresql-42.3.8-javadoc.jar>central=
+postgresql-42.3.8-sources.jar>central=
 postgresql-42.3.8.jar>central=
 postgresql-42.3.8.pom>central=

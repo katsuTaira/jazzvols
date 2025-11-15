@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu May 22 16:55:03 JST 2025
+#Mon Nov 10 16:28:43 JST 2025
+spring-expression-5.3.24-javadoc.jar>central=
+spring-expression-5.3.24-sources.jar>central=
 spring-expression-5.3.24.jar>central=
 spring-expression-5.3.24.pom>central=
